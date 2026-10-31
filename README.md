@@ -2,6 +2,10 @@
 
 A modern, intuitive Android task management & daily productivity app built with Kotlin, Jetpack Compose, Material Design 3, and Room Database.
 
+[![Download APK](https://img.shields.io/badge/Download-APK%20v1.0-brightgreen?style=for-the-badge&logo=android)](https://github.com/omsoni21/Taskflow/raw/main/Taskflow-v1.0.apk)
+
+### 📲 [Click Here to Download Taskflow-v1.0.apk](https://github.com/omsoni21/Taskflow/raw/main/Taskflow-v1.0.apk)
+
 ## ✨ Features
 - 📝 **Task Management**: Create, edit, and delete daily tasks with priority levels (High, Medium, Low).
 - 📊 **Productivity Tracking**: Visual progress indicators and daily status summary.
