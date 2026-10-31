@@ -1,0 +1,6 @@
+{
+  "name": "My Daily Tasks",
+  "description": "A modern, minimal daily to-do and task management app with progress tracking and local Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

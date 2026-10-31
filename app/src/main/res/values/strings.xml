@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Daily Tasks</string>
+    <string name="title_daily_tasks">My Daily Tasks</string>
+    <string name="empty_tasks_title">All Caught Up!</string>
+    <string name="empty_tasks_subtitle">You have no tasks for today. Tap + to add one.</string>
+    <string name="add_task_dialog_title">Add New Task</string>
+    <string name="task_title_hint">What do you need to do?</string>
+    <string name="task_category_hint">Category (optional)</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="save_button">Add Task</string>
+    <string name="delete_task_button">Delete</string>
+</resources>
