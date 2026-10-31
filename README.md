@@ -13,6 +13,12 @@ A modern, intuitive Android task management & daily productivity app built with 
 - 🔔 **Daily Reminders**: Local notification scheduling for timely task alerts.
 - 🎨 **Modern UI**: Clean and responsive layout built with Jetpack Compose and Material 3 design system.
 
+## 📱 Screenshots
+
+| Home Screen & Task List | Add New Task | Daily Reminder Settings |
+| :---: | :---: | :---: |
+| <img src="screenshots/home_screen.png" width="280" alt="Home Screen" /> | <img src="screenshots/add_task_screen.png" width="280" alt="Add Task Screen" /> | <img src="screenshots/reminder_settings.png" width="280" alt="Reminder Settings" /> |
+
 ## 🛠️ Tech Stack
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose & Material Design 3
