@@ -16,7 +16,7 @@ A modern, intuitive Android task management & daily productivity app built with 
 ## 📱 Screenshots
 
 | Home Screen & Task List | Add New Task | Daily Reminder Settings |
-| :----: | :---=: | :----: |
+| :---: | :--=: | :---: |
 | <img src="screenshots/home_screen.png" width="280" alt="Home Screen" /> | <img src="screenshots/add_task_screen.png" width="280" alt="Add Task Screen" /> | <img src="screenshots/reminder_settings.png" width="280" alt="Reminder Settings" /> |
 
 ## 🛠️ Tech Stack
