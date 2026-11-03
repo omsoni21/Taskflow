@@ -19,13 +19,6 @@ A modern, intuitive Android task management & daily productivity app built with 
 | :---: | :---: | :---: |
 | <img src="screenshots/home_screen.png" width="280" alt="Home Screen" /> | <img src="screenshots/add_task_screen.png" width="280" alt="Add Task Screen" /> | <img src="screenshots/reminder_settings.png" width="280" alt="Reminder Settings" /> |
 
-## 🎥 App Demo & Video Walkthrough
-
-> Watch Taskflow in action with full HD feature demonstration.
-
-| 🎬 Interactive Web Demo (Appetize.io) | 📹 Download / Watch Video |
-| :---: | :---: |
-| [![Run on Appetize.io](https://img.shields.io/badge/Run%20Live%20Demo-Appetize.io-6C5CE7?style=for-the-badge&logo=android)](https://appetize.io) | [![Download Demo Video](https://img.shields.io/badge/Download%20Demo%20Video-MP4-FF0000?style=for-the-badge&logo=video)](https://github.com/omsoni21/Taskflow/raw/main/screenshots/demo.mp4) |
 
 ### 🎬 [▶️ Click Here to Download / Watch Taskflow Demo Video (MP4)](https://github.com/omsoni21/Taskflow/raw/main/screenshots/demo.mp4)
 
