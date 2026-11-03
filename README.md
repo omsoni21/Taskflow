@@ -23,19 +23,19 @@ A modern, intuitive Android task management & daily productivity app built with 
 
 > Watch Taskflow in action with full HD feature demonstration.
 
-| 🎬 Interactive Web Demo (Appetize.io) | 📹 Watch Full Demo Video |
+| 🎬 Interactive Web Demo (Appetize.io) | 📹 Download / Watch Video |
 | :---: | :---: |
-| <a href="https://appetize.io" target="_blank"><img src="https://img.shields.io/badge/Run%20Live%20Demo-Appetize.io-6C5CE7?style=for-the-badge&logo=android" alt="Run Live Demo" /></a> | <a href="https://github.com/omsoni21/Taskflow/blob/main/screenshots/demo.mp4" target="_blank"><img src="https://img.shields.io/badge/Watch%20Demo%20Video-MP4-FF0000?style=for-the-badge&logo=video" alt="Watch Demo Video" /></a> |
+| [![Run on Appetize.io](https://img.shields.io/badge/Run%20Live%20Demo-Appetize.io-6C5CE7?style=for-the-badge&logo=android)](https://appetize.io) | [![Download Demo Video](https://img.shields.io/badge/Download%20Demo%20Video-MP4-FF0000?style=for-the-badge&logo=video)](https://github.com/omsoni21/Taskflow/raw/main/screenshots/demo.mp4) |
 
-### 🎬 <a href="https://github.com/omsoni21/Taskflow/blob/main/screenshots/demo.mp4" target="_blank">▶️ Click Here to Watch Taskflow Demo Video in New Tab</a>
+### 🎬 [▶️ Click Here to Download / Watch Taskflow Demo Video (MP4)](https://github.com/omsoni21/Taskflow/raw/main/screenshots/demo.mp4)
 
 <p align="center">
-  <video src="https://github.com/omsoni21/Taskflow/blob/main/screenshots/demo.mp4" width="600" controls title="Taskflow Full App Demo" poster="https://raw.githubusercontent.com/omsoni21/Taskflow/main/screenshots/home_screen.png">
+  <video src="https://github.com/omsoni21/Taskflow/raw/main/screenshots/demo.mp4" width="600" controls title="Taskflow Full App Demo" poster="https://github.com/omsoni21/Taskflow/raw/main/screenshots/home_screen.png">
     Your browser does not support the video tag.
   </video>
 </p>
 
-*Note: Clicking the link above opens the full HD video online in a new browser tab without downloading.*
+*Note: Clicking the link above downloads/plays the full HD video directly.*
 
 ## 🛠️ Tech Stack
 - **Language**: Kotlin
